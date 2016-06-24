@@ -1,28 +1,51 @@
 # GameOfThronesPeopleData
 
 Data contains following details:
+
 •	Character Names
+
 •	First seen in episode
+
 •	Species
+
 •	Origin
+
 •	Death shown in episode
+
 •	Age
+
 •	Status (dead or alive)
+
 •	Culture
+
 •	Number of episodes they appeared in 
+
 •	Href (used while scrapping data)
+
 •	Date of birth
+
 •	Allegiance
+
 •	Titiles
+
 •	Death reason
+
 •	Episodes they appeared in
+
 •	Family members
+
 •	Last seen in episode
+
 •	Episodes they were mentioned in 
+
 •	Portrayed by actor/actress
+
 •	Religion
+
 •	Seasons they appeared in 
+
 •	Other names they are known as
+
 
 Data is available in json format in the file peopledata.json. 
 I ended up normalizing it (I didn’t spend much time cleaning it though) into csv files as well.
